@@ -1,0 +1,48 @@
+[
+    {
+        "first name": "Yerin",
+        "last name": "Lee",
+        "role": "Exchange Student",
+        "year": "junior",
+        "dream profession": "Server-side pragrammer",
+        "email": "dpfls0922@naver.com",
+        "skills": [
+            [
+                "Mathematics",
+                80
+            ],
+            [
+                "Web Design",
+                60
+            ],
+            [
+                "Public Speaking",
+                50
+            ]
+        ],
+        "date of birth": "2001-11-07"
+    },
+    {
+        "first name": "Heesoo",
+        "last name": "Hong",
+        "role": "Exchange Student",
+        "year": "senior",
+        "dream profession": "Android programmer",
+        "email": "heesoo@nku.edu",
+        "skills": [
+            [
+                "Python",
+                75
+            ],
+            [
+                "Java",
+                80
+            ],
+            [
+                "HTML",
+                44
+            ]
+        ],
+        "date of birth": "2002-01-01"
+    }
+]
